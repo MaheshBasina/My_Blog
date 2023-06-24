@@ -1,78 +1,94 @@
-.body{
+
+.body {
     background-color: black;
     font-family: "Handlee", cursive;
 }
-.heading{
-    font-size:50px;
+
+.heading {
+    font-size: 50px;
     text-align: center;
 }
-h1{
+
+h1 {
     color: aqua;
 }
-.para{
+
+.para {
     font-size: 20px;
     font-weight: lighter;
 }
-.section{
+
+.section {
     width: auto;
-    height: 85vh;
-    background-size:100%;
+    height: auto;
     border-style: solid;
     border-radius: 5px;
     margin: 5px 15px;
 }
-.banner-image{
+
+.banner-image {
     width: 200px;
     height: 200px;
     border-radius: 50%;
     filter: drop-shadow(2px 4px 6px aqua);
 }
-.elements{
+
+.elements {
     color: springgreen;
     font-size: 15px;
 }
-.quote{
+
+.quote {
     text-align: right;
     padding: 5px 10px;
     color: red;
 }
-progress{
+
+progress {
     width: 70%;
 }
-#home{
+
+#home {
     color: aqua;
     box-shadow: 1px 2px 4px aqua;
 }
-#aboutMe{
+
+#aboutMe {
     border-color: wheat;
     box-shadow: 1px 2px 4px wheat;
     color: wheat;
 }
-#skills{
+
+#skills {
     border-color: aquamarine;
     box-shadow: 1px 2px 4px aquamarine;
     color: aquamarine;
 }
-#contactMe{
-    border-color:pink;
+
+#contactMe {
+    border-color: pink;
     box-shadow: 1px 2px 4px pink;
     color: pink;
 }
-input, textarea{
-    margin: 15px;
+
+input,
+textarea {
+    margin: 5px;
     font-size: 11pt;
-    padding: 15px;  
+    padding: 15px;
     border-radius: 10px;
     width: 60%;
 }
-.logo{
+
+.logo {
     width: 50px;
     height: 50px;
     border-radius: 50%;
     text-align: center;
     margin-right: 6px;
 }
-.main-logo{
+
+.main-logo {
     width: 25px;
     height: 25px;
     border-radius: 50%;
