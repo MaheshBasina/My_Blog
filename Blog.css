@@ -5,7 +5,7 @@
 }
 
 .heading {
-    font-size: 50px;
+    font-size: 3.125rem;
     text-align: center;
 }
 
@@ -14,7 +14,7 @@ h1 {
 }
 
 .para {
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: lighter;
 }
 
@@ -22,25 +22,25 @@ h1 {
     width: auto;
     height: auto;
     border-style: solid;
-    border-radius: 5px;
-    margin: 5px 15px;
+    border-radius: 0.3125rem;
+    margin: 0.1325rem 0.9375rem;
 }
 
 .banner-image {
-    width: 200px;
-    height: 200px;
+    width: 12rem;
+    height: 12rem;
     border-radius: 50%;
-    filter: drop-shadow(2px 4px 6px aqua);
+    filter: drop-shadow(0.13rem 0.3rem 0.4rem aqua);
 }
 
 .elements {
     color: springgreen;
-    font-size: 15px;
+    font-size: 0.9375rem;
 }
 
 .quote {
     text-align: right;
-    padding: 5px 10px;
+    padding: 0.1325rem 0.6rem;
     color: red;
 }
 
@@ -50,46 +50,46 @@ progress {
 
 #home {
     color: aqua;
-    box-shadow: 1px 2px 4px aqua;
+    box-shadow: 0.06rem 0.13rem 0.3rem aqua;
 }
 
 #aboutMe {
     border-color: wheat;
-    box-shadow: 1px 2px 4px wheat;
+    box-shadow: 1px 0.13rem 0.3rem wheat;
     color: wheat;
 }
 
 #skills {
     border-color: aquamarine;
-    box-shadow: 1px 2px 4px aquamarine;
+    box-shadow: 1px 0.13rem 0.3rem aquamarine;
     color: aquamarine;
 }
 
 #contactMe {
     border-color: pink;
-    box-shadow: 1px 2px 4px pink;
+    box-shadow: 1px 0.13rem 0.3rem pink;
     color: pink;
 }
 
 input,
 textarea {
-    margin: 5px;
-    font-size: 11pt;
-    padding: 15px;
-    border-radius: 10px;
+    margin: 0.1325rem;
+    font-size: 0.7rem;
+    padding: 0.9375rem;
+    border-radius: 0.6rem;
     width: 60%;
 }
 
 .logo {
-    width: 50px;
-    height: 50px;
+    width: 3.125rem;
+    height: 3.125rem;
     border-radius: 50%;
     text-align: center;
-    margin-right: 6px;
+    margin-right: 0.4rem;
 }
 
 .main-logo {
-    width: 25px;
-    height: 25px;
+    width: 1.6rem;
+    height: 1.6rem;
     border-radius: 50%;
 }
